@@ -1,2 +1,2 @@
-# 002-Plug-in-Script
+# 002-Plug-in
 插件
